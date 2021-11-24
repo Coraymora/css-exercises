@@ -1,0 +1,23 @@
+.odd-number {
+
+    color: black;
+    background-color: red;
+
+}
+
+.big-text {
+
+    font-size: 24pt;
+}
+
+#FirstID {
+    color: blue;
+    font-size: 36pt;
+    font-family: 'Times New Roman';
+}
+
+#SecondID {
+    color: black;
+    background-color: green;
+
+}
