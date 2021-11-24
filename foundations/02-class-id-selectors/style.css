@@ -1,8 +1,8 @@
 .odd-number {
 
     color: black;
-    background-color: red;
-
+    background-color: pink;
+    font-family: Verdana, sans-serif;
 }
 
 .big-text {
@@ -18,6 +18,8 @@
 
 #SecondID {
     color: black;
-    background-color: green;
+    background-color: #b6d7a8;
+    font-size: 18pt;
+    font-weight: 700;
 
 }
